@@ -24,7 +24,7 @@
 
 let books = document.getElementsByClassName("books");
 
-fetch('books.json')
+fetch('./books.json')
     .then(response => response.json())
     .then(data => {
         data.forEach(el => {
