@@ -57,18 +57,8 @@ fetch('books.json')
 
 // ADD "SEE FAVOURITES BUTTON"
 
-const showFavoritesButton ();
-
-
-
-
-
-
-
-
-
-
-
-
-
+//function showFavorites(){
+    //favorites.forEach(el=>{
+  //  };
+//};
 
