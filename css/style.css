@@ -1,0 +1,38 @@
+body{
+    background-color: #2D2D2D;
+    justify-items: center;
+}
+
+h1{
+    color:azure;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+div{
+    padding: 10px;
+}
+.container{
+    display: grid;
+    align-items: center;
+}
+.book-card{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    background-color: #82230E;
+    margin: 20px;
+    border-radius: 10px;
+    border:solid 3px #C1C1C1;
+    color: #F0F0EE;
+    width: 150px;
+    height: 200px;
+}
+
+button{
+    padding: 10px;
+}
